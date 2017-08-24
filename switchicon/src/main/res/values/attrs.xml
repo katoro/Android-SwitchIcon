@@ -19,7 +19,7 @@
     <attr name="si_animation_duration" format="integer"/>
     <attr name="si_disabled_alpha" format="float"/>
     <attr name="si_disabled_color" format="color"/>
-    <attr name="si_enabled" format="boolean"/>
+    <attr name="icon_enabled" format="boolean"/>
     <attr name="si_no_dash" format="boolean"/>
   </declare-styleable>
 </resources>
